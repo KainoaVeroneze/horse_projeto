@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 100px;
+    background-color:#8DAD8B ;
+    color: aliceblue;
+    align-items: center;
+    text-align: center;
+}
+.titulo{
+    color: #8DAD8B;
+}
+ 
